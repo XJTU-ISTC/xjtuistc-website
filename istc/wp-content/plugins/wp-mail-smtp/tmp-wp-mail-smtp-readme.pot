@@ -1,0 +1,236 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Mail SMTP"
+msgstr ""
+
+#. Short description.
+msgid "Reconfigures the wp_mail() function to use SMTP instead of mail() and creates an options page to manage the settings."
+msgstr ""
+
+#. Screenshot description.
+msgid "Screenshot of the Options &gt; Email panel."
+msgstr ""
+
+#. Found in description list item.
+msgid "Specify the from name and email address for outgoing email."
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose to send mail by SMTP or PHP's mail() function."
+msgstr ""
+
+#. Found in description list item.
+msgid "Specify an SMTP host (defaults to localhost)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Specify an SMTP port (defaults to 25)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose SSL / TLS encryption (not the same as STARTTLS)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose to use SMTP authentication or not (defaults to not)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Specify an SMTP username and password."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin reconfigures the wp_mail() function to use SMTP instead of mail() and creates an options page that allows you to specify various options."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can set the following options:"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload to your <code>/wp-contents/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor security fix, sanitize test email address."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor security fix, hat tip JD Grimes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement to the test email function, very low priority update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixing reported issue with passing by reference. props Adam Conway"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removing the deprecation notice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "$phpmailer-&gt;language became protected in WP 3.2, no longer unset on debug output."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Typo in the From email description."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed changelog from plugin file, no need to duplicate it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Optionally set $phpmailer-&gt;Sender from from email, helps with sendmail / mail()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for a long standing bug that caused an error during plugin activation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Settings link really does work this time, promise. Apologies for the unnecessary updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugfix, the settings link on the Plugin page was broken by 0.8.4."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor bugfix, remove use of esc_html() to improve backwards compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed second options page menu props ovidiu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugfix, return WPMS_MAIL_FROM_NAME, props nacin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Settings link, props Mike Challis http://profiles.wordpress.org/MikeChallis/"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugfix, call phpmailer_init_smtp() correctly, props Sinklar."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Internationalisation improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added port, SSL/TLS, option whitelisting, validate_email(), and constant options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added checks to only override the default from name / email"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional SMTP debugging output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a pre 2.3 bug to do with mail from"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a check to display a warning on versions prior to 2.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to match 2.3 filters which add a second filter for from name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug in 0.4.1 and added more debugging output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added $phpmailer-&gt;ErroInfo to the test mail output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the test email feature and cleaned up some other bits and pieces"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed to use register_activation_hook for greater compatability"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added readme for WP-Plugins.org compatability"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various bugfixes and added From options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reworked approach as suggested by westi, added options page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial approach, copying the wp_mail function and replacing it"
+msgstr ""
+
+#. Found in faq header.
+msgid "My plugin still sends mail via the mail() function"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will this plugin work with WordPress versions less than 2.7?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I use this plugin to send email via Gmail / Google Apps"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can you add feature x, y or z to the plugin?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If other plugins you're using are not coded to use the wp_mail() function but instead call PHP's mail() function directly, they will bypass the settings of this plugin. Normally, you can edit the other plugins and simply replace the <code>mail(</code> calls with <code>wp_mail(</code> (just adding wp_ in front) and this will work. I've tested this on a couple of plugins and it works, but it may not work on all plugins."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No. WordPress 2.7 changed the way options were updated, so the options page will only work on 2.7 or later."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Yes. Use these settings:\n"
+"Mailer: SMTP\n"
+"SMTP Host: smtp.gmail.com\n"
+"SMTP Port: 465\n"
+"Encryption: SSL\n"
+"Authentication: Yes\n"
+"Username: your full gmail address\n"
+"Password: your mail password"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Short answer: maybe."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"By all means please contact me to discuss features or options you'd like to see added to the plugin. I can't guarantee to add all of them, but I will consider all sensible requests. I can be contacted here:\n"
+"<a href=\"http://www.callum-macdonald.com/code/wp-mail-smtp/\">http://www.callum-macdonald.com/code/wp-mail-smtp/</a>"
+msgstr ""

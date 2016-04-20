@@ -1,0 +1,37 @@
+/*
+ * Easy Media Gallery
+ * jQuery iButton v.1.0.0
+ * Copyright (c) 2012 maissan.net - http://www.maissan.net/articles/jquery-switch
+*/
+
+
+    /* Container */
+    .ewicswitch {
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    width: 91px;
+    height: 26px;
+    vertical-align: middle;
+    }
+    /* Background image */
+    .ewicswitch .background {
+    background: url('../images/switch-background.png');
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 140px;
+    height: 26px;
+    }
+    /* Mask */
+    .ewicswitch .ewicmask {
+    background: url('../images/switch-mask.png');
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 91px;
+    height: 26px;
+    }

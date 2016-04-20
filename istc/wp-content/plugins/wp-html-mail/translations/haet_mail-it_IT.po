@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WP HTML Mail 1.2\n"
+"POT-Creation-Date: 2015-10-09 12:28+0200\n"
+"PO-Revision-Date: 2015-10-09 12:56+0200\n"
+"Language-Team: Gabriele Lauricella <gab.lau@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-html-mail.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Gabriele Lauricella <gab.lau@gmail.com>\n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-haet-mail.php:117
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-haet-mail.php:117
+msgid "Email template"
+msgstr "Modello e-mail"
+
+#: includes/class-haet-mail.php:142
+msgid "Settings Updated."
+msgstr "Impostazioni Aggiornate."
+
+#: includes/class-haet-mail.php:182 views/admin/settings.php:18
+msgid "General"
+msgstr "Generale"
+
+#: includes/class-haet-mail.php:183 views/admin/settings.php:47
+msgid "Header"
+msgstr "Intestazione"
+
+#: includes/class-haet-mail.php:184 views/admin/settings.php:162
+msgid "Content"
+msgstr "Contenuto"
+
+#: includes/class-haet-mail.php:191 views/admin/settings.php:305
+#: views/admin/settings.php:316
+msgid "Footer"
+msgstr "Piè di pagina"
+
+#: includes/class-haet-mail.php:192
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/class-haet-mail.php:193
+msgid "Advanced"
+msgstr "Avanzato"
+
+#: includes/class-haet-sender-plugin-ninja-forms.php:41
+#: includes/class-heat-sender-plugin-contact-form-7.php:50
+msgid "Yes"
+msgstr "Sì"
+
+#: includes/class-haet-sender-plugin-ninja-forms.php:42
+#: includes/class-heat-sender-plugin-contact-form-7.php:51
+msgid "No"
+msgstr "No"
+
+#: views/admin/settings.php:23 views/admin/settings.php:52
+#: views/admin/settings.php:167 views/admin/settings.php:310
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: views/admin/settings.php:29
+msgid "Email sender name"
+msgstr "Nome del mittente"
+
+#: views/admin/settings.php:35
+msgid "Email sender address"
+msgstr "E-mail del mittente"
+
+#: views/admin/settings.php:59
+msgid "Header image"
+msgstr "Immagine della testata"
+
+#: views/admin/settings.php:64
+msgid "Select image"
+msgstr "Seleziona immagine"
+
+#: views/admin/settings.php:68
+msgid "Add your logo or image header (optional). max 600px wide"
+msgstr ""
+"Aggiungi il tuo logo o immagine nell'intestazione (opzionale). Dim. max "
+"600px"
+
+#: views/admin/settings.php:73
+msgid "Padding"
+msgstr "Riempimento"
+
+#: views/admin/settings.php:76
+msgid "top"
+msgstr "alto"
+
+#: views/admin/settings.php:83
+msgid "right"
+msgstr "destra"
+
+#: views/admin/settings.php:90
+msgid "bottom"
+msgstr "In basso"
+
+#: views/admin/settings.php:97
+msgid "left"
+msgstr "sinistra"
+
+#: views/admin/settings.php:107
+msgid "Header text"
+msgstr "Testo Testata"
+
+#: views/admin/settings.php:115
+msgid "Font"
+msgstr "Carattere"
+
+#: views/admin/settings.php:134 views/admin/settings.php:199
+#: views/admin/settings.php:235 views/admin/settings.php:271
+#: views/admin/settings.php:289
+msgid "Bold"
+msgstr "Grassetto"
+
+#: views/admin/settings.php:140 views/admin/settings.php:205
+#: views/admin/settings.php:241 views/admin/settings.php:277
+msgid "Italic"
+msgstr "Corsivo"
+
+#: views/admin/settings.php:145
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: views/admin/settings.php:149 views/admin/settings.php:190
+#: views/admin/settings.php:226 views/admin/settings.php:262
+msgid "Left"
+msgstr "Sinistra"
+
+#: views/admin/settings.php:150 views/admin/settings.php:191
+#: views/admin/settings.php:227 views/admin/settings.php:263
+msgid "Center"
+msgstr "Centrato"
+
+#: views/admin/settings.php:151 views/admin/settings.php:192
+#: views/admin/settings.php:228 views/admin/settings.php:264
+msgid "Right"
+msgstr "Destra"
+
+#: views/admin/settings.php:174
+msgid "Headline Font"
+msgstr "Carattere del titolo"
+
+#: views/admin/settings.php:210
+msgid "Subsubheadline Font"
+msgstr "Carattere del titoletto"
+
+#: views/admin/settings.php:246
+msgid "Content Font"
+msgstr "Carattere Contenuto"
+
+#: views/admin/settings.php:282
+msgid "Link styling"
+msgstr "Styling di collegamento"
+
+#: views/admin/settings.php:295
+msgid "Underline"
+msgstr "Sottolineato"
+
+#: views/admin/settings.php:327
+msgid "Show \"powered by\" link in email footer"
+msgstr "Mostra \"powered by\" link nel piè di pagina dell'email"
+
+#: views/admin/settings.php:337
+msgid "Use template for mails sent by your installed plugins"
+msgstr "Utilizzare il modello per le mail inviate dai plugin installati"
+
+#: views/admin/settings.php:374
+msgid "Advanced features"
+msgstr "Caratteristiche avanzate"
+
+#: views/admin/settings.php:388
+msgid "Create custom template"
+msgstr "Crea modello personalizzato"
+
+#: views/admin/settings.php:391
+msgid "create template file in my theme folder"
+msgstr "crea il file di modello nella mia cartella del tema"
+
+#: views/admin/settings.php:393
+msgid ""
+"You already have a custom template. If you create a new one the existing "
+"template will be backed up."
+msgstr ""
+"Hai già un modello personalizzato. Se si crea uno nuovo, il modello "
+"esistente verrà salvato in un backup."
+
+#: views/admin/settings.php:396
+msgid ""
+"WARNING: Your theme directory is not writable by the server. Please change "
+"the permission to allow us to create the mail template."
+msgstr ""
+"Attenzione: La directory del tema non è scrivibile dal server. Si prega di "
+"modificare l'autorizzazione per permetterci di creare il modello dell'email"
+
+#: views/admin/settings.php:399
+msgid ""
+"Customize your mail template as far as you can. Then click this button to "
+"export the template to your theme directory for further modifications."
+"<br>The template will be created in <strong>wp-content/YOUR-THEME/wp-html-"
+"mail/template.html</strong>"
+msgstr ""
+"Personalizzare il modello dell'email per quanto è possibile. Quindi fare "
+"clic su questo pulsante per esportare il modello nella directory del tema "
+"per ulteriori modifiche.<br>Il modello verrà creato in <strong>wp-content/"
+"TUO-TEMA/wp-html-mail/template.html</strong>"
+
+#: views/admin/settings.php:401
+msgid "Template created"
+msgstr "Modello creato"
+
+#: views/admin/settings.php:403
+msgid "Your template has been created."
+msgstr "Il modello è stato creato."
+
+#: views/admin/settings.php:421
+msgid "Save and Preview"
+msgstr "Salva e Anteprima"
+
+#: views/admin/settings.php:422
+msgid "Discard changes and reload template"
+msgstr "Annullare le modifiche e ricaricare il modello"
+
+#: views/admin/settings.php:429
+msgid "Send a test mail"
+msgstr "Invia una mail di prova"
+
+#: views/admin/settings.php:432
+msgid "send test mail"
+msgstr "invia una email di prova"
+
+#: views/admin/settings.php:433
+msgid "Email sent"
+msgstr "Email inviata"
+
+#: views/admin/settings.php:435
+msgid "Your message has been sent."
+msgstr "Il tuo messaggio è stato inviato."
+
+#: views/admin/single-plugin.php:14
+msgid "Use template"
+msgstr "Usa modello"
+
+#: views/admin/single-plugin.php:18
+msgid "Overwrite sender"
+msgstr "Sovrascrivere il mittente"
+
+#: views/admin/single-plugin.php:21
+msgid "Install WP HTML Mail for"
+msgstr "Installare WP HTML Mail per"
+
+#: views/admin/single-plugin.php:27
+msgid "is currently not installed."
+msgstr "non è attualmente installato."
+
+#: views/admin/single-plugin.php:29
+msgid "install"
+msgstr "Installa"
+
+#. Plugin Name of the plugin/theme
+msgid "WP HTML Mail"
+msgstr "WP HTML Mail"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wp-html-mail.com/"
+msgstr "http://wp-html-mail.com/"
+
+#. Description of the plugin/theme
+msgid "Use custom HTML mail templates for your WordPress mails"
+msgstr ""
+"Utilizza modelli di email HTML personalizzati per messaggi di WordPress"
+
+#. Author of the plugin/theme
+msgid "haet webdevelopment"
+msgstr "haet webdevelopment"
+
+#. Author URI of the plugin/theme
+msgid "http://etzelstorfer.com"
+msgstr "http://etzelstorfer.com"

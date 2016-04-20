@@ -1,0 +1,605 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Image Slider (Lite)\n"
+"POT-Creation-Date: 2016-03-21 22:22+0700\n"
+"PO-Revision-Date: 2015-10-08 14:22-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: easy-slider-widget-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: easy-slider-widget-lite.php:122
+msgctxt "post type general name"
+msgid "Image Sliders"
+msgstr ""
+
+#: easy-slider-widget-lite.php:123
+msgctxt "post type singular name"
+msgid "Image Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:124
+msgid "Add New Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:125
+msgid "Slider Item"
+msgstr ""
+
+#: easy-slider-widget-lite.php:126
+msgid "Edit Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:127
+msgid "New Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:128
+msgid "View Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:129
+msgid "Search Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:130
+msgid "No Slider Found"
+msgstr ""
+
+#: easy-slider-widget-lite.php:131
+msgid "No Slider Found In Trash"
+msgstr ""
+
+#: easy-slider-widget-lite.php:132
+msgid "Parent Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:133
+msgid "Image Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:141
+msgid "Easy Slider"
+msgstr ""
+
+#: easy-slider-widget-lite.php:166
+msgid "Sliders"
+msgstr ""
+
+#: easy-slider-widget-lite.php:201
+msgid "Slider Name"
+msgstr ""
+
+#: easy-slider-widget-lite.php:202
+msgid "Total Image"
+msgstr ""
+
+#: easy-slider-widget-lite.php:203
+msgid "Shortcode"
+msgstr ""
+
+#: easy-slider-widget-lite.php:204
+msgid "ID"
+msgstr ""
+
+#: easy-slider-widget-lite.php:206
+msgid "Actions"
+msgstr ""
+
+#: easy-slider-widget-lite.php:414 inc/ewic-metaboxes.php:358
+msgid "Settings"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:13
+msgid "AMAZING Pro Version DEMO"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:14 inc/functions/ewic-functions.php:734
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:328
+msgid "Select/Upload Images"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:329
+msgid ""
+"<span class=\"ewic-introjs\"><span class=\"ewic-intro-help\"></span><a href="
+"\"javascript:void(0);\" onclick=\"startIntro();\">Click Here to learn How to "
+"Create Slider</a></span><br /><br />Click <strong><i>Add Images</i></strong> "
+"button below and select an images that you want to show in your widget area."
+"<br />Press <strong>Ctrl + click on each images</strong> to select multiple "
+"images."
+msgstr ""
+
+#: inc/ewic-metaboxes.php:366
+msgid "Slider Size"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:367
+msgid ""
+"Use this option to set Slider custom width and height. We recommend to set "
+"AUTO for height."
+msgstr ""
+
+#: inc/ewic-metaboxes.php:378
+msgid "Use Timthumb"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:379
+msgid ""
+"Using Timthumb can load slider images more faster but make sure your "
+"hosting / server support for use Timthumb and your slider width must be use "
+"spesific size ( not auto ) and we recommend you to set slider height to auto."
+"<span data-tnonce=\""
+msgstr ""
+
+#: inc/ewic-metaboxes.php:386
+msgid "Auto Slide"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:387
+msgid "If ON slides will automatically transition / play."
+msgstr ""
+
+#: inc/ewic-metaboxes.php:394
+msgid "Slider Delay"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:395
+msgid ""
+"The amount of time (in sec) between each auto transition. Default : 5 sec"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:407
+msgid "Slider Effect / Easing"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:409
+msgid ""
+"Choose an entrance animation or effect and pass it to the slider. Default : "
+"easeInOutCubic"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:418
+msgid "Slider Style"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:419
+msgid ""
+"You can set the slider style to fade, move vertical or horizontal. Default: "
+"Horizontal"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:430
+msgid "Navigation Button"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:431
+msgid "You can set the navigation button style here. Default: Always Show"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:441
+msgid "Show Titles ( if Available )"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:442
+msgid "If ON your image title will appear on the bottom."
+msgstr ""
+
+#: inc/ewic-metaboxes.php:449
+msgid "Smart Title"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:450
+msgid ""
+"If ON the plugin will automatically convert uppercase the first character of "
+"each word and replace - with spaces in a title. For example : ferrari-f12-"
+"berlinetta-interior will change to Ferrari F12 Berlinetta Interior"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:457
+msgid "Open an Images in a Lightbox"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:458
+msgid "If ON, your images will displayed in a lightbox when clicked."
+msgstr ""
+
+#: inc/ewic-metaboxes.php:465
+msgid "Lightbox Slideshow"
+msgstr ""
+
+#: inc/ewic-metaboxes.php:466
+msgid "If ON, the lightbox slideshow will play automatically."
+msgstr ""
+
+#: inc/ewic-metaboxes.php:473
+msgid "Lightbox Slideshow Interval "
+msgstr ""
+
+#: inc/ewic-metaboxes.php:474
+msgid "The amount of time (in sec) between each slide. Default : 5 sec"
+msgstr ""
+
+#: inc/ewic-notice.php:25
+#, php-format
+msgid ""
+"Earn <span style=\"color: red;\">EXTRA MONEY</span> and get 30&#37; "
+"affiliate share from every sale you make!&nbsp;&nbsp;<a href=\"http://goo."
+"gl/3bgA1D\" target=\"_blank\">JOIN GHOZYLAB AFFILIATE PROGRAM NOW!</a><span "
+"style=\"float: right;\"><a href=\"%1$s\">Hide Notice</a><span>"
+msgstr ""
+
+#: inc/ewic-widget.php:8
+msgid "Use this widget to display your images slider."
+msgstr ""
+
+#: inc/ewic-widget.php:11
+msgid "Image Slider Widget"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:236
+msgid ""
+"We recommend you to enable plugin Auto Update so you will get the latest "
+"features and other important updates from <strong>Image Slider (Lite)</"
+"strong>.<br />Click <a href=\"#\"><strong><span id=\"ewicdoautoupdate"
+"\">here</span></strong></a> to enable Auto Update."
+msgstr ""
+
+#: inc/functions/ewic-functions.php:319 inc/pages/ewic-addons.php:35
+#: inc/pages/ewic-featured.php:15
+msgid ""
+"There was an error retrieving the list from the server. Please try again "
+"later."
+msgstr ""
+
+#: inc/functions/ewic-functions.php:353
+msgid ""
+"Fill your Affiliate Account Email or Payment Email and press Connect button "
+"to start earn extra Money with us!"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:369
+msgid "Account Email or Payment Email"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:394
+msgid "How does it work?"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:397
+msgid ""
+"After successfully registered with our Affiliate program what you have to do "
+"just :"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:398
+msgid ""
+"Fill your Affiliate Account Email or Payment Email in field above and Hit "
+"Connect button"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:399
+msgid "After connected you will see green connected status"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:400
+msgid ""
+"Check your form and you will find your affiliate link in the bottom of your "
+"slider like in the right side screenshot"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:401
+msgid ""
+"Now when individuals follow that link and subsequently make a purchase, you "
+"will be credited for the transaction and you will receive a payout"
+msgstr ""
+
+#: inc/functions/ewic-functions.php:402
+msgid "Congratulations! You are ready to start to earn extra money"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:166
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:178
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:178
+msgid "Install Now"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:185
+#, php-format
+msgid "Update %s now"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:185
+msgid "Update Now"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:191
+msgid "This plugin is already installed and is up to date"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:191
+msgctxt "plugin"
+msgid "Installed"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:200
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:200
+msgid "More Details"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:268
+msgid "Last Updated:"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:269
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:273
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/pages/ewic-freeplugins.php:278
+msgid "Untested with your version of WordPress"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:280
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr ""
+
+#: inc/pages/ewic-freeplugins.php:282
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr ""
+
+#: inc/pages/ewic-pricing.php:31
+msgid "Comparison"
+msgstr ""
+
+#: inc/pages/ewic-settings.php:13 inc/pages/ewic-welcome.php:73
+msgid "Global Settings"
+msgstr ""
+
+#: inc/pages/ewic-settings.php:16
+msgid "Auto Update Plugin"
+msgstr ""
+
+#: inc/pages/ewic-settings.php:19
+msgid "Enable"
+msgstr ""
+
+#: inc/pages/ewic-settings.php:20
+msgid "Disable"
+msgstr ""
+
+#: inc/pages/ewic-settings.php:29
+msgid "Check this out!"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:70
+msgid "UPGRADE to PRO"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:402
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:446
+msgid "What's New"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:449
+msgid "Getting Started"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:452
+msgid "Addons"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:456
+msgid "Free Plugins"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:460
+msgid "Premium Plugins"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:464
+msgid ""
+"<span class=\"ewic-dollar\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra</span>"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:485 inc/pages/ewic-welcome.php:588
+#: inc/pages/ewic-welcome.php:644 inc/pages/ewic-welcome.php:673
+#: inc/pages/ewic-welcome.php:704 inc/pages/ewic-welcome.php:735
+msgid "Welcome to "
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:486 inc/pages/ewic-welcome.php:561
+#: inc/pages/ewic-welcome.php:589 inc/pages/ewic-welcome.php:645
+#: inc/pages/ewic-welcome.php:674 inc/pages/ewic-welcome.php:705
+#: inc/pages/ewic-welcome.php:736
+msgid "Thank you for installing "
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:487 inc/pages/ewic-welcome.php:562
+#: inc/pages/ewic-welcome.php:590 inc/pages/ewic-welcome.php:646
+#: inc/pages/ewic-welcome.php:675 inc/pages/ewic-welcome.php:706
+#: inc/pages/ewic-welcome.php:737
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:494
+msgid "New Welcome Page"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:498
+msgid ""
+"Version 1.1.15 introduces a comprehensive welcome page interface. The easy "
+"way to get important informations about this product and other related "
+"plugins."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:500
+msgid ""
+"In this page, you will find four important Tabs named Getting Started, "
+"Addons, Free Plugins, Premium Plugins and Extra."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:506
+msgid "ADDONS"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:510
+msgid ""
+"Need some Pro version features to be applied in your Free version? What you "
+"have to do just go to <strong>Addons</strong> page and choose any Addons "
+"that you want to install. All listed addons are Premium version."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:516
+msgid "Additional Updates"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:521
+msgid "CSS Clean and Optimization"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:522
+msgid ""
+"We've improved some css class to make your slider for look fancy and better."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:528
+msgid "Disable Notifications"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:529
+msgid ""
+"In this version you will no longer see some annoying notifications in top of "
+"slider editor page. Thanks for who suggested it."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:535
+msgid "Improved Several Function"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:536
+msgid ""
+"Slider function has been improved to be more robust and fast so you can "
+"create slider only in minutes."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:543
+msgid "View the Full Changelog"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:560
+msgid " Changelog"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:567
+msgid "Full Changelog"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:594
+msgid ""
+"There are no complicated instructions because this plugin designed to make "
+"all easy. Please watch the following video and we believe that you will "
+"easily to understand it just in minutes :"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:603
+msgid "Need Help?"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:607
+msgid "Phenomenal Support"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:608
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"wordpress.org/support/plugin/image-slider-widget\" target=\"_blank\">support "
+"forums</a>."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:610
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:611
+msgid ""
+"Just upgrade to <a target=\"_blank\" href=\"http://demo.ghozylab.com/plugins/"
+"easy-image-slider-plugin/pricing/\">Pro version</a> and you will get "
+"Priority Support are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:617
+msgid "Stay Up to Date"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:621
+msgid "Get Notified of Addons Releases"
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:622
+msgid "New Addons that make "
+msgstr ""
+
+#: inc/pages/ewic-welcome.php:763
+msgid "No valid changlog was found."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Image Slider (Lite)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.ghozylab.com/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Image Slider (Lite) - Displaying your image as slider in post/page/widget/"
+"sidebar area with very easy.<a href=\"http://demo.ghozylab.com/plugins/easy-"
+"image-slider-plugin/pricing/\" target=\"_blank\"><strong> Upgrade to Pro "
+"Version Now</strong></a> and get a tons of awesome features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GhozyLab, Inc."
+msgstr ""

@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP HTML Mail v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-23 15:23:14+0000\n"
+"Last-Translator: hannes <hannes@haet.at>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/class-haet-mail.php:117
+#@ haet_mail
+msgid "Email"
+msgstr "E-Mail"
+
+#: includes/class-haet-mail.php:117
+#@ haet_mail
+msgid "Email template"
+msgstr "E-Mail Template"
+
+#: includes/class-haet-mail.php:142
+#@ haet_mail
+msgid "Settings Updated."
+msgstr "Einstellungen gespeichert"
+
+#: includes/class-haet-mail.php:182
+#: views/admin/settings.php:18
+#@ haet_mail
+msgid "General"
+msgstr "Allgemein"
+
+#: includes/class-haet-mail.php:183
+#: views/admin/settings.php:47
+#@ haet_mail
+msgid "Header"
+msgstr "Header"
+
+#: includes/class-haet-mail.php:184
+#: views/admin/settings.php:162
+#@ haet_mail
+msgid "Content"
+msgstr "Inhalt"
+
+#: includes/class-haet-mail.php:191
+#: views/admin/settings.php:305
+#: views/admin/settings.php:316
+#@ haet_mail
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/class-haet-mail.php:192
+#@ haet_mail
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/class-haet-mail.php:193
+#@ haet_mail
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: includes/class-haet-sender-plugin-ninja-forms.php:41
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: includes/class-haet-sender-plugin-ninja-forms.php:42
+#@ default
+msgid "No"
+msgstr ""
+
+#: includes/class-haet-sender-plugin-wp-e-commerce.php:9
+#@ wpsc
+msgid "Transaction Report"
+msgstr ""
+
+#: includes/class-haet-sender-plugin-wp-e-commerce.php:10
+#@ wpsc
+msgid "Purchase Receipt"
+msgstr ""
+
+#: includes/class-haet-sender-plugin-wp-e-commerce.php:11
+#@ wpsc
+msgid "Order Pending: Payment Required"
+msgstr ""
+
+#: includes/class-haet-sender-plugin-wp-e-commerce.php:13
+#@ wpsc
+msgid "The administrator has unlocked your file"
+msgstr ""
+
+#: views/admin/settings.php:23
+#: views/admin/settings.php:52
+#: views/admin/settings.php:167
+#: views/admin/settings.php:310
+#@ haet_mail
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: views/admin/settings.php:29
+#@ haet_mail
+msgid "Email sender name"
+msgstr "Absender Name"
+
+#: views/admin/settings.php:35
+#@ haet_mail
+msgid "Email sender address"
+msgstr "Absender E-Mail"
+
+#: views/admin/settings.php:59
+#@ haet_mail
+msgid "Header image"
+msgstr "Header Bild"
+
+#: views/admin/settings.php:64
+#@ haet_mail
+msgid "Select image"
+msgstr "Bild wählen"
+
+#: views/admin/settings.php:68
+#@ haet_mail
+msgid "Add your logo or image header (optional). max 600px wide"
+msgstr "Wähle dein Headerbild oder Logo (optional). maximal 600px breit"
+
+#: views/admin/settings.php:73
+#@ haet_mail
+msgid "Padding"
+msgstr "Innerer Abstand"
+
+#: views/admin/settings.php:76
+#@ haet_mail
+msgid "top"
+msgstr "oben"
+
+#: views/admin/settings.php:83
+#@ haet_mail
+msgid "right"
+msgstr "rechts"
+
+#: views/admin/settings.php:90
+#@ haet_mail
+msgid "bottom"
+msgstr "unten"
+
+#: views/admin/settings.php:97
+#@ haet_mail
+msgid "left"
+msgstr "links"
+
+#: views/admin/settings.php:107
+#@ haet_mail
+msgid "Header text"
+msgstr "Header Text"
+
+#: views/admin/settings.php:115
+#@ haet_mail
+msgid "Font"
+msgstr "Schriftart"
+
+#: views/admin/settings.php:134
+#: views/admin/settings.php:199
+#: views/admin/settings.php:235
+#: views/admin/settings.php:271
+#: views/admin/settings.php:289
+#@ haet_mail
+msgid "Bold"
+msgstr "Fett"
+
+#: views/admin/settings.php:140
+#: views/admin/settings.php:205
+#: views/admin/settings.php:241
+#: views/admin/settings.php:277
+#@ haet_mail
+msgid "Italic"
+msgstr "Kursiv"
+
+#: views/admin/settings.php:145
+#@ haet_mail
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: views/admin/settings.php:149
+#: views/admin/settings.php:190
+#: views/admin/settings.php:226
+#: views/admin/settings.php:262
+#@ haet_mail
+msgid "Left"
+msgstr "Links"
+
+#: views/admin/settings.php:150
+#: views/admin/settings.php:191
+#: views/admin/settings.php:227
+#: views/admin/settings.php:263
+#@ haet_mail
+msgid "Center"
+msgstr "Zentriert"
+
+#: views/admin/settings.php:151
+#: views/admin/settings.php:192
+#: views/admin/settings.php:228
+#: views/admin/settings.php:264
+#@ haet_mail
+msgid "Right"
+msgstr "Rechts"
+
+#: views/admin/settings.php:174
+#@ haet_mail
+msgid "Headline Font"
+msgstr "Überschrift Schriftart"
+
+#: views/admin/settings.php:210
+#@ haet_mail
+msgid "Subsubheadline Font"
+msgstr "Untertitel Schriftart"
+
+#: views/admin/settings.php:246
+#@ haet_mail
+msgid "Content Font"
+msgstr "Inhalt Schriftart"
+
+#: views/admin/settings.php:282
+#@ haet_mail
+msgid "Link styling"
+msgstr "Link Formatierung"
+
+#: views/admin/settings.php:295
+#@ haet_mail
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: views/admin/settings.php:327
+#@ haet_mail
+msgid "Show \"powered by\" link in email footer"
+msgstr "Zeige den \\\"powered by\\\" Link in der E-Mail Fußzeile"
+
+#: views/admin/settings.php:337
+#@ haet_mail
+msgid "Use template for mails sent by your installed plugins"
+msgstr "Verwende dieses Template, die von deinen installierten Plugins gesendet werden"
+
+#: views/admin/settings.php:374
+#@ haet_mail
+msgid "Advanced features"
+msgstr "Erweiterte Funktionen"
+
+#: views/admin/settings.php:388
+#@ haet_mail
+msgid "Create custom template"
+msgstr "Eigenes Template erstellen"
+
+#: views/admin/settings.php:391
+#@ haet_mail
+msgid "create template file in my theme folder"
+msgstr "Template Dateien in meinem Theme Ordner anlegen"
+
+#: views/admin/settings.php:393
+#@ haet_mail
+msgid "You already have a custom template. If you create a new one the existing template will be backed up."
+msgstr "Du hast bereits ein eigenes Template angelegt. Wenn du ein weiteres anlegst wird zuerst ein Backup des aktuellen erstellt."
+
+#: views/admin/settings.php:396
+#@ haet_mail
+msgid "WARNING: Your theme directory is not writable by the server. Please change the permission to allow us to create the mail template."
+msgstr "ACHTUNG: Dein Theme-Order ist nicht beschreibbar. Bitte ändere die Zugriffsrechte, damit das Template angelegt werden kann."
+
+#: views/admin/settings.php:399
+#@ haet_mail
+msgid "Customize your mail template as far as you can. Then click this button to export the template to your theme directory for further modifications.<br>The template will be created in <strong>wp-content/YOUR-THEME/wp-html-mail/template.html</strong>"
+msgstr "Formatiere dein Template so weit du kannst und klicke dann den Button um das Template zu generieren und weitere Änderungen im Quellcode vorzunehmen.<br>Das Template wird im Ordner <strong>wp-content/DEIN-THEME/wp-html-mail/template.html</strong> erstellt"
+
+#: views/admin/settings.php:401
+#@ haet_mail
+msgid "Template created"
+msgstr "Template angelegt"
+
+#: views/admin/settings.php:403
+#@ haet_mail
+msgid "Your template has been created."
+msgstr "Dein Template wurde angelegt"
+
+#: views/admin/settings.php:421
+#@ haet_mail
+msgid "Save and Preview"
+msgstr "Speichern und Vorschau"
+
+#: views/admin/settings.php:422
+#@ haet_mail
+msgid "Discard changes and reload template"
+msgstr "Änderungen verwerfen und Template neu laden"
+
+#: views/admin/settings.php:429
+#@ haet_mail
+msgid "Send a test mail"
+msgstr "Testnachricht versenden"
+
+#: views/admin/settings.php:432
+#@ haet_mail
+msgid "send test mail"
+msgstr "Testnachricht versenden"
+
+#: views/admin/settings.php:433
+#@ haet_mail
+msgid "Email sent"
+msgstr "E-Mail gesendet"
+
+#: views/admin/settings.php:435
+#@ haet_mail
+msgid "Your message has been sent."
+msgstr "Deine E-Mail wurde gesendet."
+
+#: views/admin/single-plugin.php:14
+#@ haet_mail
+msgid "Use template"
+msgstr "Template verwenden"
+
+#: views/admin/single-plugin.php:18
+#@ haet_mail
+msgid "Overwrite sender"
+msgstr "Absender überschreiben"
+
+#: views/admin/single-plugin.php:21
+#@ haet_mail
+msgid "Install WP HTML Mail for"
+msgstr "Installiere WP HTML Mail für"
+
+#: views/admin/single-plugin.php:27
+#@ haet_mail
+msgid "is currently not installed."
+msgstr "ist aktuell nicht installiert."
+
+#: views/admin/single-plugin.php:29
+#@ haet_mail
+msgid "install"
+msgstr "installieren"
+

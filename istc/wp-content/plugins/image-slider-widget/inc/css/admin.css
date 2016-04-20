@@ -1,0 +1,12 @@
+/* Featured Plugin Styles
+-------------------------------------------------------------- */
+#ghozy-featured h2 { margin: 0 0 15px; }
+#ghozy-featured .ghozy-extension { float: left; margin: 0 15px 15px 0; background: #FFF; border: 1px solid #DEDEDE; width: 320px; height: auto; position: relative; }
+#ghozy-featured .ghozy-extension h3 { margin: 0 0 8px; font-size: 13px;  }
+#ghozy-featured .ghozy-extension .button-secondary { position: relative; left: 0px; margin-bottom: 5px; }
+#ghozy-featured .ghozy-browse-all { clear:both; width:100%; }
+#ghozy-featured .ghozy-extension .third-party { display: none; }
+#ghozy-featured .ghozy-extension .feedtop { padding: 8px; }
+#ghozy-featured .feedbottom {clear: both; background-color: #FAFAFA; border-top: 1px solid #DEDEDE; overflow: hidden; }
+#ghozy-featured .feeddesc { margin-bottom: 25px; padding: 0px 8px 8px 8px; }
+#ghozy-featured .getitfeed { margin-left: 8px; bottom: 8px;}

@@ -1,0 +1,132 @@
+.clearfix{zoom:1}.clearfix:before,.clearfix:after{content:"";display:table}.clearfix:after{clear:both}
+
+#haet_mail_form .wp-picker-container{
+    line-height: 27px;
+}
+
+#haet_mail_form .wp-color-result{
+    margin-bottom: 0;
+}
+
+#haet_mail_form .postbox .hndle,
+.haet-mail-send-test .hndle{
+    padding-left:10px;
+    cursor: text;
+}
+
+#haet_mail_form .form-table th,
+#haet_mail_form .form-table td {
+    /*padding-top:5px;
+    padding-bottom:5px;*/
+}
+
+.haet-mail-send-test{
+    max-width: 800px;
+}
+
+.haet-mail-dialog{
+    display: none;
+}
+
+#haet_mail_form .border-choice-label{
+    display: inline-block;
+    font-size: 8px;
+    line-height: 10px;
+    margin-right: 20px;
+}
+
+#haet_mail_form .border-choice{
+    width:16px;
+    height:16px;
+    border:none;
+    border-collapse: collapse;
+    display: inline-table;
+}
+
+#haet_mail_form .border-choice td{
+    width: 8px;
+    height: 7px;
+    font-size: 0px;
+    line-height: 0px;
+    border: 1px dotted #999;
+    padding: 0;
+}
+
+/* outer vertical */
+#haet_mail_form .border-choice.border-choice-outer-v td:first-child{
+    border-left: solid 2px #000!important;
+}
+#haet_mail_form .border-choice.border-choice-outer-v td:last-child{
+    border-right: solid 2px #000;
+}
+
+/* inner vertical */
+#haet_mail_form .border-choice.border-choice-inner-v td:last-child{
+    border-left: solid 2px #000;
+}
+
+
+/* outer horizontal */
+#haet_mail_form .border-choice.border-choice-outer-h tr:first-child td{
+    border-top: solid 2px #000!important;
+}
+#haet_mail_form .border-choice.border-choice-outer-h tr:last-child td{
+    border-bottom: solid 2px #000;
+}
+
+/* inner horizontal */
+#haet_mail_form .border-choice.border-choice-inner-h tr:last-child td{
+    border-top: solid 2px #000;
+}
+
+/* top */
+#haet_mail_form .border-choice.border-choice-top tr:first-child td{
+    border-top: solid 2px #000;
+}
+
+/* bottom */
+#haet_mail_form .border-choice.border-choice-bottom tr:last-child td{
+    border-bottom: solid 2px #000;
+}
+
+
+#haet_mail_form input[type="number"]{
+    width:50px;
+}
+
+
+/****************************************
+*   PLUGINS
+****************************************/
+.haet-mail-plugin{ 
+    width: 350px;
+    margin:20px;
+    float: left;
+    display: block;
+    height:128px;
+    padding:15px;
+    border:1px solid #eee;
+    background: #f1f1f1;
+}
+
+.haet-mail-plugin.not-installed img{ 
+    opacity:0.5;
+    transition: opacity 0.4s;
+}
+
+.haet-mail-plugin.not-installed:hover img{ 
+    opacity:1.0;
+}
+
+
+.haet-mail-plugin .haet-mail-plugin-left{
+    width:128px;
+    float: left;
+}
+
+.haet-mail-plugin .haet-mail-plugin-right{
+    margin-left: 10px;
+    width:205px;
+    float: left;
+}
+

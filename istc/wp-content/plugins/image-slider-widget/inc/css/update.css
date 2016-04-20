@@ -1,0 +1,43 @@
+/*
+Plugin List Style
+*/
+#the-list #image-slider-lite
+{
+	position:relative;
+}
+
+#the-list #image-slider-lite .plugin-title
+{
+	height:100%;
+}
+
+
+
+#image-slider-widget-update .update-message {
+	background-color: #FEF7F1 !important;
+}
+
+
+.ewic_update_changelogs_ttl {
+	
+	margin-top:30px !important;
+	font-size:14px !important;
+	font-weight:bold;
+	
+}
+
+.ewic_update_changelogs {
+	
+	padding:10px;
+	background-color:#FFF2EC;
+	border:1px solid #FFBC79;
+	border-radius:10px;
+	font-style:italic;
+	
+}
+
+.ewic_version_clttl {
+	font-weight:bold;
+	border-bottom: dashed 1px #CCC;
+	padding-bottom: 5px !important;
+}
