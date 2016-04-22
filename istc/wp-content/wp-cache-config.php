@@ -5,8 +5,9 @@ WP-Cache Config Sample File
 See wp-cache.php for author details.
 */
 
+$cache_wptouch = '1'; //Added by WP-Cache Manager
 $wp_cache_mobile_groups = ''; //Added by WP-Cache Manager
-$wp_cache_mobile_prefixes = 'w3c , w3c-, acs-, alav, alca, amoi, audi, avan, benq, bird, blac, blaz, brew, cell, cldc, cmd-, dang, doco, eric, hipt, htc_, inno, ipaq, ipod, jigs, kddi, keji, leno, lg-c, lg-d, lg-g, lge-, lg/u, maui, maxo, midp, mits, mmef, mobi, mot-, moto, mwbp, nec-, newt, noki, palm, pana, pant, phil, play, port, prox, qwap, sage, sams, sany, sch-, sec-, send, seri, sgh-, shar, sie-, siem, smal, smar, sony, sph-, symb, t-mo, teli, tim-, tosh, tsm-, upg1, upsi, vk-v, voda, wap-, wapa, wapi, wapp, wapr, webc, winw, winw, xda , xda-'; //Added by WP-Cache Manager
+$wp_cache_mobile_prefixes = ''; //Added by WP-Cache Manager
 $wp_cache_refresh_single_only = '0'; //Added by WP-Cache Manager
 $wp_cache_make_known_anon = 0; //Added by WP-Cache Manager
 $wp_cache_mod_rewrite = 0; //Added by WP-Cache Manager
@@ -28,7 +29,7 @@ $cache_enabled = true; //Added by WP-Cache Manager
 $super_cache_enabled = true; //Added by WP-Cache Manager
 $cache_max_time = '1800'; //Added by WP-Cache Manager
 //$use_flock = true; // Set it true or false if you know what to use
-$cache_path = WP_CONTENT_DIR . '/cache/';
+$cache_path = '/home/kohill/domains/kohill.cn/public_html/istc/wp-content/cache'; //Added by WP-Cache Manager
 $file_prefix = 'wp-cache-';
 $ossdlcdn = 1; //Added by WP-Cache Manager
 
@@ -36,7 +37,7 @@ $ossdlcdn = 1; //Added by WP-Cache Manager
 $cache_acceptable_files = array( 'wp-comments-popup.php', 'wp-links-opml.php', 'wp-locations.php' );
 
 $cache_rejected_uri = array('wp-.*\\.php', 'index\\.php');
-$cache_rejected_user_agent = array ( 0 => 'bot', 1 => 'ia_archive', 2 => 'slurp', 3 => 'crawl', 4 => 'spider', 5 => 'Yandex' );
+$cache_rejected_user_agent = array ( 0 => 'iPhone', 1 => 'iPod', 2 => 'Android', 3 => 'BB10', 4 => 'BlackBerry', 5 => 'webOS', 6 => 'IEMobile/7.0', 7 => 'IEMobile/9.0', 8 => 'IEMobile/10.0', 9 => 'MSIE 10.0', 10 => 'iPad', 11 => 'PlayBook', 12 => 'Xoom ', 13 => 'P160U', 14 => 'SCH-I800', 15 => 'Nexus 7', 16 => 'Touch', 17 => 'spider', 18 => 'Yandex', ); //Added by WP-Cache Manager
 
 $cache_rebuild_files = 1; //Added by WP-Cache Manager
 
@@ -78,16 +79,16 @@ $wp_cache_debug_level = 5;
 $wp_cache_debug_ip = '';
 $wp_cache_debug_log = '';
 $wp_cache_debug_email = '';
-$wp_cache_pages[ "search" ] = 0;
-$wp_cache_pages[ "feed" ] = 0;
-$wp_cache_pages[ "category" ] = 0;
-$wp_cache_pages[ "home" ] = 0;
-$wp_cache_pages[ "frontpage" ] = 0;
-$wp_cache_pages[ "tag" ] = 0;
-$wp_cache_pages[ "archives" ] = 0;
-$wp_cache_pages[ "pages" ] = 0;
-$wp_cache_pages[ "single" ] = 0;
-$wp_cache_pages[ "author" ] = 0;
+$wp_cache_pages[ "search" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "feed" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "category" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "home" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "frontpage" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "tag" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "archives" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "pages" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "single" ] = 0; //Added by WP-Cache Manager
+$wp_cache_pages[ "author" ] = 0; //Added by WP-Cache Manager
 $wp_cache_hide_donation = 0;
 $wp_cache_not_logged_in = 0; //Added by WP-Cache Manager
 $wp_cache_clear_on_post_edit = 0; //Added by WP-Cache Manager

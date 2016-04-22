@@ -20,15 +20,16 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
+define( 'WPCACHEHOME', '/home/kohill/public_html/istc/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', 'E:\xampp\htdocs\istc\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
+
 define('DB_NAME', 'kohill_ISTC');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'root');
+define('DB_USER', 'kohill_ISTC');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'hswK3d$V*PhY&3n$');
 
 /** MySQL主机 */
 define('DB_HOST', 'localhost');

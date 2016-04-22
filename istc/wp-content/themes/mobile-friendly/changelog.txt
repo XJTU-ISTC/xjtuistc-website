@@ -1,0 +1,35 @@
+Mobile Friendly
+
+*********************
+
+Version 1.8 (01/12/16)
+- Front page template changes
+
+Version 1.7 (12/16/15)
+- Sections added in custom page template
+
+Version 1.6 (12/1/15)
+- Resolved minor issue of use of translation functions
+
+Version 1.5 (11/30/15)
+- Resolved issue of escaping functions for user inputs
+
+Version 1.4 (11/23/15)
+- Widget name and function modified as per convention
+
+Version 1.3 (11/6/15)
+- Escaping function added
+- Extra css files removed
+
+Version 1.2 (11/2/15)
+- Deprecated functions removed
+- Sanitization functions added
+- Minor bugs fixed
+
+Version 1.1 (9/7/15)
+- Screenshot updated
+- License information updated
+- Textdomain, function prefix issues resolved
+
+Version 1.0 (7/16/15)
+- Initial release

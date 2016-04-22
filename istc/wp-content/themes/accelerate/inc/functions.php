@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Accelerate functions and definitions
  *
@@ -494,9 +494,9 @@ function accelerate_footer_copyright() {
 
     //$tg_link =  '<a href="'.esc_url( 'http://themegrill.com/themes/accelerate' ).'" target="_blank" title="'.esc_attr__( 'ThemeGrill', 'accelerate' ).'" rel="designer"><span>'.__( 'ThemeGrill', 'accelerate') .'</span></a>';
 
-	$author = '设计策划：Cos，技术支持：Cos，王彪 发布于2016年4月16日';
+	$author = '设计策划：Cos，技术支持：Cos，王虓 发布于2016年4月16日';
 	$default_footer_value = sprintf( __( '%3$s <span style="font-weight:bold;"><B>Copyright &copy; %1$s %2$s </B></span>'), date( 'Y' ), $site_link ,$author);
-	$accelerate_footer_copyright = '<div class="copyright">'.$default_footer_value.'</div>';
+	$accelerate_footer_copyright = '<div class="copyright" style="text-align:center;">'.$default_footer_value.'</div>';
 	echo $accelerate_footer_copyright;
 }
 endif;
